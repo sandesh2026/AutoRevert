@@ -6,3 +6,5 @@ added
 Test
 
 line1
+
+line2
